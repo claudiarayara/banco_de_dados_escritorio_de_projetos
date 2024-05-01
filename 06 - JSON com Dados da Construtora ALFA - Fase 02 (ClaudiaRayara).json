@@ -1,0 +1,132 @@
+{
+    "Construtora": {
+      "codigo": 10,
+      "nome": "Construtora Alfa S.A.",
+      "nome_fantasia": "Alfa Incorporações",
+      "telefones": [
+        "(51) 3333-3334",
+        "(51) 3333-3335",
+        "(51) 3333-3336"
+        ]
+    },
+    "Obras": [
+      {
+        "codigo": 115,
+        "logradouro": "Travessa dos Lagos",
+        "numero": "100",
+        "complemento": "Norte",
+        "id_construtora": 10,
+        "Trabalhadores": [
+          {
+            "cpf": "10110110134",
+            "nome": "José Chaves",
+            "salario": 2200.00
+          },
+          {
+            "cpf": "10210210291",
+            "nome": "Pedro Passos",
+            "salario": 3502.18
+          },
+          {
+            "cpf": "10310310318",
+            "nome": "Maria Aparecida",
+            "salario": 2800.87
+          }
+        ],
+        "Equipamentos": [
+          {
+            "codigo": 301,
+            "nome": "Betoneira",
+            "valor_uso_diario": 100.00,
+            "data_inicio_uso": "18/03/2022",
+            "data_termino_uso": "24/10/2022"
+          },
+          {
+            "codigo": 304,
+            "nome": "Guincho",
+            "valor_uso_diario": 250.00,
+            "data_inicio_uso": "20/04/2022",
+            "data_termino_uso": "02/08/2022"
+          },
+          {
+            "codigo": 306,
+            "nome": "Piso Metálico",
+            "valor_uso_diario": 150.00,
+            "data_inicio_uso": "06/07/2021",
+            "data_termino_uso": "18/07/2021"
+          },
+          {
+            "codigo": 307,
+            "nome": "Furadeira de bancada",
+            "valor_uso_diario": 65.00,
+            "data_inicio_uso": "04/03/2022",
+            "data_termino_uso": "20/03/2022"
+          },
+          {
+            "codigo": 309,
+            "nome": "Parafusadeira",
+            "valor_uso_diario": 37.00,
+            "data_inicio_uso": "23/10/2022",
+            "data_termino_uso": "25/10/2022"
+          }
+        ]
+      },
+      {
+        "codigo": 116,
+        "logradouro": "Avenida Rio Grande",
+        "numero": "22",
+        "complemento": "Lado A",
+        "id_construtora": 10,
+        "Trabalhadores": [
+          {
+            "cpf": "10410410452",
+            "nome": "Carlos Dutra",
+            "salario": 3100.00
+          },
+          {
+            "cpf": "10510510585",
+            "nome": "Mário Pires",
+            "salario": 4323.29
+          }
+        ],
+        "Equipamentos": [
+          {
+            "codigo": 304,
+            "nome": "Guincho",
+            "valor_uso_diario": 250.00,
+            "data_inicio_uso": "22/10/2022",
+            "data_termino_uso": "25/10/2022"
+          },
+          {
+            "codigo": 305,
+            "nome": "Gerador",
+            "valor_uso_diario": 451.00,
+            "data_inicio_uso": "07/03/2022",
+            "data_termino_uso": "10/03/2022"
+          },
+          {
+            "codigo": 306,
+            "nome": "Piso Metálico",
+            "valor_uso_diario": 150.00,
+            "data_inicio_uso": "12/09/2022",
+            "data_termino_uso": "21/09/2022"
+          },
+          {
+            "codigo": 307,
+            "nome": "Furadeira de bancada",
+            "valor_uso_diario": 65.00,
+            "data_inicio_uso": "16/08/2022",
+            "data_termino_uso": "24/08/2022"
+          },
+          {
+            "codigo": 308,
+            "nome": "Parafusadeira",
+            "valor_uso_diario": 37.00,
+            "data_inicio_uso": "23/10/2022",
+            "data_termino_uso": "25/10/2022"
+          }
+        ]
+      }
+    ]
+  }
+  
